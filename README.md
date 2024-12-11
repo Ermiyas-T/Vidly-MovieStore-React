@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Vidly-MovieStore-React
+Vidly-MovieStore-React is a React-based movie rental application that highlights the advantages of reusable components and clean coding practices. It showcases a component-oriented architecture that prioritizes code readability, maintainability, and scalability. 
+>>>>>>> 6001e44a579dd1b28a9211d0619a27bd667b9820
