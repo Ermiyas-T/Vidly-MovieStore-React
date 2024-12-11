@@ -1,75 +1,42 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Vidly MovieStore React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Vidly MovieStore is a modern movie database web app built with React. This project allows users to browse movies, filter by genre, search, sort, paginate, and interact with the app's various features. The app leverages modern front-end technologies to deliver a responsive and dynamic experience.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Browse Movies**: Users can explore a wide collection of movies with details like title, genre, and release date.
+- **Movie Filtering**: Filter movies by genre and sort them based on different criteria.
+- **Movie Pagination**: Easily navigate through large datasets by using pagination to split the movie list into pages.
+- **Search Movies**: Users can search for movies by name, genre, or year of release.
+- **Sorting**: Movies can be sorted by title, genre, and other criteria.
+- **Form Validation with Joi**: The app includes form validation for user inputs using the Joi validation library to ensure data integrity and proper formatting.
+- **Responsive Design**: Optimized for mobile and desktop use with a fully responsive layout.
+- **Real-Time Data**: Fetches movie data dynamically from an external API (or your local back-end server).
 
-### `npm start`
+## Technologies/Tools Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React**: For building the user interface and managing the app's state.
+- **React Router**: For handling routing and navigation between pages.
+- **CSS BootStrap**: For styling and making the UI visually appealing.
+- **Axios**: For making HTTP requests to fetch movie data from the back-end or API.
+- **React Hooks**: For managing state and side-effects in functional components.
+- **Joi**: For validating form inputs and ensuring correct data submission.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+Follow these steps to set up and run the project locally:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+Make sure you have the following installed:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Node.js](https://nodejs.org/) (LTS version)
+- [npm](https://www.npmjs.com/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Install Dependencies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Clone the repository and navigate to the project directory:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Vidly-MovieStore-React
-Vidly-MovieStore-React is a React-based movie rental application that highlights the advantages of reusable components and clean coding practices. It showcases a component-oriented architecture that prioritizes code readability, maintainability, and scalability. 
->>>>>>> 6001e44a579dd1b28a9211d0619a27bd667b9820
+```bash
+git clone https://github.com/Ermiyas-T/Vidly-MovieStore-React.git
+cd Vidly-MovieStore-React
