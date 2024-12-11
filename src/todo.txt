@@ -1,0 +1,13 @@
+// sorting 
+ * raising event while clicking the column headers
+ * the effect we wanna bring is :  ascending/ decending  order of the movies based on particular property(clicked column header)
+ 
+
+# onClick effect
+# create state that store the effect brought
+# make the page rerender the effect after each onClick event
+
+
+
+
+***## : the columns push each other when the word length vary in the cell

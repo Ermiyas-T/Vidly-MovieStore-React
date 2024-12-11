@@ -1,0 +1,39 @@
+body {
+    background-image: url('img/pexels-kseniya-lapteva-93670191-9280918.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.not-found {
+    margin-left: 50px;
+    font-size: 2rem;
+}
+
+.form-group {
+    font-size: 1.2rem;
+    width: 50%;
+    max-width: auto;
+    padding-left: 50px;
+
+}
+
+.form-group button {
+    margin-top: 1rem;
+    padding-inline: 1rem;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.form-group select {
+    margin-left: 0;
+}
+
+.newMovieButton {
+    margin-top: 1rem;
+}
+
+#searchIcon {
+    z-index: 1;
+}

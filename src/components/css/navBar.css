@@ -1,0 +1,17 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-links {
+    display: flex;
+    /* Use flexbox to align items horizontally */
+    gap: 20px;
+    /* Adjust space between items */
+}
+
+.nav-item {
+    display: inline;
+    /* Ensure items are inline */
+}
