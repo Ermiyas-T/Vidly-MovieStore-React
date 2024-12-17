@@ -23,10 +23,4 @@ Vidly MovieStore is a modern movie database web app built with React. This proje
 - **Joi**: For validating form inputs and ensuring correct data submission.
 
 
-### Install Dependencies
 
-Clone the repository and navigate to the project directory:
-
-```bash
-git clone https://github.com/Ermiyas-T/Vidly-MovieStore-React.git
-cd Vidly-MovieStore-React
