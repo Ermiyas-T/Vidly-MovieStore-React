@@ -22,16 +22,6 @@ Vidly MovieStore is a modern movie database web app built with React. This proje
 - **React Hooks**: For managing state and side-effects in functional components.
 - **Joi**: For validating form inputs and ensuring correct data submission.
 
-## Getting Started
-
-Follow these steps to set up and run the project locally:
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (LTS version)
-- [npm](https://www.npmjs.com/)
 
 ### Install Dependencies
 
